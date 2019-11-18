@@ -1480,6 +1480,8 @@
 [proxy_list]
 
 # MyList
+(^|\.)t\.cn$
+(^|\.)javlib\.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
