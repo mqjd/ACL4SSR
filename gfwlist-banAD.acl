@@ -1484,6 +1484,8 @@
 (^|\.)javlib\.com$
 (^|\.)500px\.com$
 (^|\.)500px\.org$
+(^|\.)btdig\.com$
+(^|\.)biedian\.me$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
