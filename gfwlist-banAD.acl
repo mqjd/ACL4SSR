@@ -1482,10 +1482,12 @@
 # MyList
 (^|\.)t\.cn$
 (^|\.)javlib\.com$
-(^|\.)500px\.com$
 (^|\.)500px\.org$
 (^|\.)btdig\.com$
 (^|\.)biedian\.me$
+(^|\.)youpeg\.com$
+(^|\.)tits-guru\.com$
+(^|\.)btos\.pw$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
