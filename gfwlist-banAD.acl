@@ -1482,6 +1482,7 @@
 # MyList
 (^|\.)t\.cn$
 (^|\.)javlib\.com$
+(^|\.)limbopro.\xyz$
 (^|\.)500px\.org$
 (^|\.)btdig\.com$
 (^|\.)biedian\.me$
